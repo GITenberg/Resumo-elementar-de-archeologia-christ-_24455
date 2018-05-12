@@ -1,0 +1,36 @@
+_repo: Resumo-elementar-de-archeologia-christ-_24455
+_version: 0.1.0
+alternative_title: Resumo elementar de arqueologia cristã
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silva, Joaquim Possidónio Narciso da
+    alias: Silva, Joaquim Possidonio Narciso da
+    birthdate: 1806
+    deathdate: 1896
+    gutenberg_agent_id: '7205'
+    url: http://www.gutenberg.org/2009/agents/7205
+description: ''
+gutenberg_bookshelf: PT Arte
+gutenberg_issued: '2008-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24455'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Rita Farinha and the Online Distributed Proofreading
+  Team at http://www.pgdp.net (This file was produced from images generously made
+  available by National Library of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: "Lisboa:\r\nLallemant Frères, Imprensa\r\n1887"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcc 'BR'
+- !lcsh 'Archaeology'
+- !lcsh 'Church history'
+title: Resumo elementar de archeologia christã
+url: http://www.gutenberg.org/ebooks/24455
